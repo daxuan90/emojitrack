@@ -20,4 +20,4 @@
 
 ## 联系我
 
-你可以通过邮件 toliuxuan@icloud.com 或小红书[@Happy轩](https://www.xiaohongshu.com/user/profile/59f2c18c4eacab1fbabe5405) 与我联系 ☺️
+你可以通过邮件 toliuxuan@icloud.com 或在小红书 [@Happy轩](https://www.xiaohongshu.com/user/profile/59f2c18c4eacab1fbabe5405) 联系我 ☺️
