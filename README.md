@@ -1,4 +1,6 @@
-# Emoji 记账
+# Emoji记账
+
+## 概述
 
 [Emoji记账](https://apps.apple.com/cn/app/emoji%E8%AE%B0%E8%B4%A6/id1614125637) 是一款界面干净，功能简单的 iOS 原生记账 App。
 
@@ -15,3 +17,7 @@
 <img src="../assets/images/App Icon Square-蓝色.png" alt="App Icon Square-蓝色" style="zoom:50%;" />
 
 👉[立即下载 Emoji 记账](https://apps.apple.com/cn/app/emoji%E8%AE%B0%E8%B4%A6/id1614125637)👈，让记账变得，即轻松又简单。🎉
+
+## 联系我
+
+你可以通过邮件 toliuxuan@icloud.com 或小红书[@Happy轩](https://www.xiaohongshu.com/user/profile/59f2c18c4eacab1fbabe5405) 与我联系 ☺️
