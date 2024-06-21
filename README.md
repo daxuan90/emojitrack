@@ -14,7 +14,7 @@
 
 - 数据隐私：数据只属于你，使用 iCloud 存储数据，只有你能查看和销毁。🔒
 
-<img src="../assets/images/App-Icon-Square-Blue.png" alt="App-Icon-Square-Blue" style="zoom: 50%;" />
+<img src="assets/images/App-Icon-Square-Blue.png" alt="App-Icon-Square-Blue" style="zoom: 50%;" />
 
 👉[立即下载 Emoji 记账](https://apps.apple.com/cn/app/emoji%E8%AE%B0%E8%B4%A6/id1614125637)👈，让记账变得，即轻松又简单。🎉
 
